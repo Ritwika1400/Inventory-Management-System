@@ -59,7 +59,7 @@ if(isset($_SESSION["userid"])){
 			  	<small id="p_error" class="form-text text-muted"></small>
 			  </div>
 			  <button type="submit" class="btn btn-primary"><i class="fa fa-lock">&nbsp;</i>Login</button>
-			  <!-- <span><a href="register.php">Register</a></span> -->
+			   <span><a href="register.php">Register</a></span> 
 			</form>
 
         </div>
